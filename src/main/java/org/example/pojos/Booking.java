@@ -1,4 +1,4 @@
-package org.example.ex10_PayloadManagement.gson;
+package org.example.pojos;
 
 
 import com.google.gson.annotations.Expose;
